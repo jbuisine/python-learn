@@ -1,6 +1,6 @@
 # Pandas Tutorials
 
-## Allnotebooks
+## All notebooks
 
 * [01 - Introducing-Pandas-Objects](https://github.com/jbuisine/python-learn/blob/master/03.Pandas/01.Introducing-Pandas-Objects.ipynb)
 * [02 - Data-Indexing-and-Selection](https://github.com/jbuisine/python-learn/blob/master/03.Pandas/02.Data-Indexing-and-Selection.ipynb)
